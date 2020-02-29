@@ -1,0 +1,9 @@
+.form-position {
+  position: relative;
+  left: 20%;
+  top: 30%;
+}
+
+.question-title {
+  color: white;
+}
